@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=1639c5&height=240&text=Changhoon's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Backend Developer in Progress </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 이 창 훈 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 🚀 Java & Spring Boot로 백엔드를 배우며 성장 중인 개발자 <br>👨‍💻 | AWS · Docker · CI/CD · 개인 프로젝트 경험 </div> 
     </div>
     <div align= "center">
