@@ -3,20 +3,20 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Backend Developer in Progress </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 🚀 Java & Spring Boot로 백엔드를 배우며 성장 중인 개발자 👨‍💻 | AWS · Docker · CI/CD · 개인 프로젝트 경험 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 🚀 Java & Spring Boot로 백엔드를 배우며 성장 중인 개발자 <br>👨‍💻 | AWS · Docker · CI/CD · 개인 프로젝트 경험 </div> 
     </div>
-    <div align= "left">
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "left"> 
 <h3> 🧠 Language </h3>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 
 ### 💻 Frontend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -24,7 +24,7 @@
 </p>
 
 ### 🧹 Backend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
@@ -33,13 +33,13 @@
 </p>
 
 ### 🐘 Database
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ### ⚙️ DevOps & Infra
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -48,7 +48,7 @@
 </p>
 
 ### 🛠 Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
@@ -57,10 +57,10 @@
 </p>
           </div>
     </div>
-    <div align= "left">
+    <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:ddong9124@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddong9124@gmail.com"> </a>
          <a href=https://www.notion.so/cccb75a770f246b2838331e9c4808bae> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/cccb75a770f246b2838331e9c4808bae"> </a>
           </div>  <br> 
-    <div align= "left">  </div> 
+    <div align= "center">  </div> 
     </div>
