@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 Backend Developer in Progress </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요! 👋</li>Java & Spring Boot 기반으로 백엔드 개발을 학습하며, 문제 해결 중심으로 성장하고 있는 개발자 지망생입니다.</li>AWS·Docker·CI/CD 등 배포 경험과 개인 프로젝트(Hamlol)를 통해 실무 감각과 실행력을 키워가고 있습니다. </div> 
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> ### 🧠 Language
 <p align="center">
